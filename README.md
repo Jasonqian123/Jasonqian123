@@ -17,7 +17,7 @@
 
 <h2>🔍 Strategy Development Projects:</h2>
 
-- <b>Fan Engagement for Women Football</b>
+- <b>Fan Engagement for Women Football <a href="https://www.linkedin.com/posts/xzqian1011_thrilled-to-share-i-have-received-a-distinction-activity-7260678117071929344-wzmK?utm_source=share&utm_medium=member_desktop" target="_blank">(see my post!!!)</a></b>
   - [Primary Research on How to Increase Game Attendance for Nottingham Forest Women's F.C](https://drive.google.com/file/d/18oc8ughW0-61bZOIQkjvFHYaVz3XtA6-/view?usp=drive_link)
 - <b>Transformation of Sports Venue</b>
   - [Coverting Sports Stadium into a Vibrant and Multi-Purpose Destination: A Case Study on Luton Town F.C](https://drive.google.com/file/d/1rzaOD-N8GfHtmhLfS7tzpFq7cRZosQad/view?usp=drive_link)
