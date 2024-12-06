@@ -12,7 +12,7 @@
   - [Regional Sales Data Across Canada](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Excel%20Project) <b><i>(PivotTable, Line Chart, Bar Chart, Pie Chart)</b></i>
   - [Exploring Parcel Delivery Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Excel%20Project) <b><i>(VLOOKUP, IF(), SUM(), AVERAGE(), COUNTIF())</b></i>
 - <b>SQL 
-  - [Data Cleaning for Housing Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/Data%20Cleaning) <b><i>(JOIN, SUBSTRING, PARSENAME, CASE, Rownumber())</b></i>
+  - [Data Cleaning for Housing Data](https://github.com/Jasonqian123/PortfolioProjects/blob/main/SQL%20Query/Data%20Cleaning%20query-%20housing%20data.sql) <b><i>(JOIN, SUBSTRING, PARSENAME, CASE, Rownumber())</b></i>
   - [SQL Queries to Explore Covid-19 Data](https://github.com/Jasonqian123/PortfolioProjects/tree/main/SQL%20Query) <b><i>(JOIN, ORDERBY, GROUPBY, SUM(), MAX())</b></i>
 
 <h2>🔍 Strategy Development Projects:</h2>
