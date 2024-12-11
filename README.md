@@ -25,7 +25,7 @@
 
 <h2>🏅 Certificatations:</h2>
 
-- <b><a href="https://drive.google.com/file/d/17d06TLyM2LhR8SW6kluXry0J-vtZ-dzf/view?usp=sharing" target="_blank">Programming with Python</a></b>
+- <b><a href="https://drive.google.com/file/d/1TFOubJs2dqIL886eGTUjwcXI7go9dm-Y/view?usp=drive_link" target="_blank">Data Analysis with Python</a></b>
 - <b><a href="https://drive.google.com/file/d/1E2pymye4nGChunYypehsV7fDB67LZD50/view?usp=sharing" target="_blank">Visualization with Tableau</a></b>
 - <b><a href="https://drive.google.com/file/d/11lQJGMbEAcxGyzNa_gr4cpnjGWQar3Yl/view?usp=sharing" target="_blank">Data Analysing Using Excel</a></b>
 - <b><a href="https://drive.google.com/file/d/1RCpMuKfEG1czgpUspzpLOzp-Zgw8IsOj/view?usp=drive_link" target="_blank">Databases and SQL for Data Science with Python</a></b>
