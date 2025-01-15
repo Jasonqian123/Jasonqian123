@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Python</b>
-  - [Developing Models for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Model%20Development/Developing%20model%20for%20car%20price.ipynb) <b><i>(linear/polynomial regression, data pipeline, model visualization, model evaluation)</i></b>
+  - [Developing Models for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Model%20Development/Developing%20model%20for%20car%20price.ipynb) <b><i>(Linear/polynomial regression, data pipeline, model visualization, model evaluation)</i></b>
   - [Exploratory Data Analysis for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Exploratary%20Data%20Analysis/Explorary%20Data%20Analysis-car%20pricing.ipynb) <b><i>(Correlation, Box plot, ANOVA(groupby), Pivot table, Heatmap)</i></b>
   - [Data Cleaning for Laptop Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Data%20Cleaning/laptop%20price%20-%20data%20cleaning.ipynb) <b><i>(Missing data, Replacement, Standardization, Normalization, Binning, Indicator Data)</i></b>
 - <b>Data Visualization (Tableau)</b>
