@@ -23,7 +23,7 @@
 - <b>Transformation of Sports Venue</b>
   - [Coverting Sports Stadium into a Vibrant and Multi-Purpose Destination: A Case Study on Luton Town F.C](https://drive.google.com/file/d/1rzaOD-N8GfHtmhLfS7tzpFq7cRZosQad/view?usp=drive_link)
 - <b>Holborn F.C Attendance Analysis</b>
-  - [In-depth analysis of attendance and revenue trends for Holborn F.C](https://docs.google.com/presentation/d/14xz54NwlEBq_ctByisR_6SEbbJBoMOAd/edit#slide=id.p1)
+  - [In-depth analysis of attendance and revenue trends for Holborn F.C](https://docs.google.com/presentation/d/13uXNz7lsQUVFIdbiED7PWfhH8VARjK6s/edit#slide=id.p5)
     
 <h2>🏅 Certificatations:</h2>
 
