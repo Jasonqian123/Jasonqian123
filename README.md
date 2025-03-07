@@ -3,8 +3,8 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Python</b>
-  - [Developing Models for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Model%20Development/Developing%20model%20for%20car%20price.ipynb) <b><i>(Linear/polynomial regression, data pipeline, model visualization, model evaluation)</i></b>
-  - [Exploratory Data Analysis for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Exploratary%20Data%20Analysis/Explorary%20Data%20Analysis-car%20pricing.ipynb) <b><i>(Correlation, Box plot, ANOVA(groupby), Pivot table, Heatmap)</i></b>
+  - [Retail Store Customer Segmentation](https://github.com/Jasonqian123/RetailStoreCustomerSegmentation) <b><i>(Exploratory Analysis, K-Means Clustering, Elbow Method, Scatter Plot)</i></b>
+   - [Developing Models for Car Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Model%20Development/Developing%20model%20for%20car%20price.ipynb) <b><i>(Linear/Polynomial Regression, Data Pipeline, Model Visualization, Model Evaluation)</i></b>
   - [Data Cleaning for Laptop Pricing](https://github.com/Jasonqian123/PortfolioProjects/blob/main/Python/Data%20Cleaning/laptop%20price%20-%20data%20cleaning.ipynb) <b><i>(Missing data, Replacement, Standardization, Normalization, Binning, Indicator Data)</i></b>
 - <b>Google Analytics (GA4)</b> 
   - [Google Merchandise Store Analysis](https://github.com/Jasonqian123/GoogleMerchAnalysis/blob/main/README.md) <b><i>(Acquisition, Engagement, Funnel Visualization, Path Exploration)</b></i>
