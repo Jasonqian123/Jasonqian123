@@ -1,4 +1,4 @@
-<h1>Hi, I'm Xingzhou! 👋<br/><a href="https://www.linkedin.com/in/xzqian1011/">Data Analyst</a>, <a href="https://www.linkedin.com/posts/xzqian1011_thrilled-to-share-i-have-received-a-distinction-activity-7260678117071929344-wzmK?utm_source=share&utm_medium=member_desktop">Strategy & Insights Developer</a>, <a href="https://www.linkedin.com/in/xzqian1011/">Sports Enthusiast</a></h1>
+<h1>Hi, I'm Xingzhou! 👋<br/><a href="https://www.linkedin.com/in/xzqian1011/">Data Analyst</a>, <a href="https://www.linkedin.com/in/xzqian1011/">Digital Marketing Specialist</a>, <a href="https://www.linkedin.com/in/xzqian1011/">Sports Enthusiast</a></h1>
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
